@@ -26,6 +26,6 @@ For regression aficionados, our lineup includes:
 - **Covering Number**: A metric revealing the complexity of the hypothesis space.
 
 ## Dive In!
-Feel free to explore the detailed implementations and insights in the provided Python files. Your questions and suggestions are more than welcome - let's embark on this machine learning journey together!
+Feel free to explore the detailed implementations and insights in the provided Python files (.py) located in their respective "classification" and "regression" folders. Your questions and suggestions are more than welcome - let's embark on this machine learning journey together!
 
 🚀 Happy exploring the world of machine learning algorithms! 🚀
